@@ -18,7 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #000531 url("/images/glitter_white.jpg") no-repeat center center;
+  background-size: cover;
+	
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
