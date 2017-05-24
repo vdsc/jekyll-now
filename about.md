@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am graduate student at University of Delaware pursuing Masters in Electrical and Computer Engineering. I’m on my way to become a web developer.
+My interest lies from the front end to the back end and I love to code. 
+I have worked on this website by combining Jekyll with github page to host my web application projects. Still a lot of designing to add to this website...
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## Contact me
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[vdsc@udel.edu](mailto:vdsc@udel.edu) <br />
+302-345-3474
